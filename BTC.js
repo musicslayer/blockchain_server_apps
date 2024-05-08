@@ -2,7 +2,7 @@ const { spawn } = require('child_process');
 const fs = require('fs');
 const http = require('http');
 const url = require('url');
-const PORT = 3000;
+const PORT = 80;
 
 // Favicon file
 const FAVICON_FILE = 'favicon.ico';
